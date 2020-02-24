@@ -1,0 +1,16 @@
+1. Explain what the terminal is in your own words.
+its the main brain for the computer in telling it what you want it to do
+
+
+
+2. What is the major difference between Git and Github?
+git is a local vsc and git hub is a distrubuted vsc where it uploaded on  a server online so anyone can pull if they want
+
+
+
+
+
+3. Why do we use Github? 
+to make work projects with team mates so if anything needs change or goes down it can be uploaded for everyone
+
+
