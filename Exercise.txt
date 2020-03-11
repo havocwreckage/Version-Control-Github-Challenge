@@ -12,5 +12,6 @@ git is a local vsc and git hub is a distrubuted vsc where it uploaded on  a serv
 
 3. Why do we use Github? 
 to make work projects with team mates so if anything needs change or goes down it can be uploaded for everyone
+Git is a version control software and Github is a website used for developers to share to learn and share projects publicly.
 
 
